@@ -1,0 +1,17 @@
+body{padding: 0;margin: 0;;font-family: "黑体";}
+.content-wrap{width: 1300px;height: 800px;}
+.navbar{width:1300px;height: 50px;background-color: #388ac1;}
+.navbar .logo{width: 35px;height: 35px;float:left;margin-left: 50px;padding-top: 7px;padding-bottom: 7px;}
+.navbar .search{width: 275px;height:25px;border:0px ;border-radius: 15px;float: left;margin-left: 800px;line-height: 25px;margin-top:10px;background-image: url(img/search-icon.png); background-repeat: no-repeat;background-position:8% center;background-size: 18px}
+.content{width: 100%;height: 100%}
+.left{width: 20%;height: 100%;background-color: #343b59;float: left;}
+.right{width: 80%;height: 100%;background-color: #eeeeed;float: left;}
+.right .right-top{height: 30px;background-color: #ffffff;}
+.right-top span{line-height:30px;color: #abaaaa;font-size: 12.28px;margin-left: 30px}
+span.doc{color: #388ac1;margin-left: 0px;}
+.left .circleout{width: 60px;height: 60px;margin-left: 45px;margin-top: 22px;border-radius: 50%;border:2px solid #eeeeed;}
+.left .circlein{position: relative;left: 5px;top:5px;right:5px;bottom:5px;border-radius: 50%;width: 50px;height: 50px;background-color:#eeeeed }
+.clearL{display:inline-block;width: 20px;height:50px;margin-left:90px;color: #eeeeed;padding-top: 15px}
+.second{margin-left: 50px;color: #eeeeed;font-size: 14px;}
+.second div{float: left;width: 40px}
+.second .line{width: 0px;height: 32px;border:1px solid #eeeeed;margin-left:30px;margin-right:50px;opacity: 0.3}
